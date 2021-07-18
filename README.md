@@ -10,3 +10,9 @@
 - Проект 6 - [Анализ бизнес-показателей](https://nbviewer.jupyter.org/github/almihor/praktikum/blob/main/project6/project6.ipynb)
 - Проект 8 - [Как рассказать историю с помощью данных](https://nbviewer.jupyter.org/github/almihor/praktikum/blob/main/project8/project8.ipynb)
 - Проект 9 - [Событийная аналитика](https://nbviewer.jupyter.org/github/almihor/praktikum/blob/main/project9/project9.ipynb)
+- Проект 11 - [Прогнозирование оттока с помощью машинного обучения](https://nbviewer.jupyter.org/github/almihor/praktikum/blob/main/project11/project11.ipynb)
+- Финальные проекты:
+	- GAME - [Анализ рекламных источников для мобильной игры](https://nbviewer.jupyter.org/github/almihor/praktikum/blob/main/final_projects/game.ipynb)
+	- AB_TEST - [Проверка корректности проведения A/B теста](https://nbviewer.jupyter.org/github/almihor/praktikum/blob/main/final_projects/ab_test.ipynb)
+	- SQL - [Разведочный анализ имеющейя информации](https://nbviewer.jupyter.org/github/almihor/praktikum/blob/main/final_projects/sql.ipynb)
+	- SLACK - [Анализ выгруженных сообщений из каналов в slack](https://nbviewer.jupyter.org/github/almihor/praktikum/blob/main/final_projects/slack.ipynb)
